@@ -7,3 +7,4 @@ Testing OpenPLC
 
 Test bench board for Arduino UNO  
 ![IMG-0951](https://user-images.githubusercontent.com/14026974/211951812-be9c26a5-edc8-4012-a3ed-dc31952b27b8.jpg)
+![OpenPLC_Arduino_UNO_V104](https://user-images.githubusercontent.com/14026974/211951973-6f6c0bee-af72-4431-bb3c-91963d5a7441.png)
