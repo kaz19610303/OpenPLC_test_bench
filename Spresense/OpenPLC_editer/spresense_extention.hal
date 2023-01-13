@@ -1,0 +1,4 @@
+# HAL configuration
+# Format :
+# Board type, FQBN
+Spresene extention, SPRESENSE:spresense:spresense
